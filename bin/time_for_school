@@ -16,6 +16,10 @@ avi.last_name = "Flombaum"
 jim = User.new
 jim.first_name = "Jim"
 jim.last_name = "Carrey"
+
+katniss = Student.new
+katniss.first_name = "Katniss"
+katniss.last_name = "Everdeen"
 # my code ends here
 
 some_knowledge = avi.teach
