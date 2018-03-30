@@ -12,6 +12,9 @@ avi = Teacher.new
 avi.first_name = "Avi"
 avi.last_name = "Flombaum"
 
+# my code begins here
+
+# my code ends here
 
 some_knowledge = avi.teach 
 
