@@ -15,7 +15,7 @@ avi.last_name = "Flombaum"
 # my code begins here
 jim = User.new
 jim.first_name = "Jim"
-jim.last_name = 
+jim.last_name = "Carrey"
 # my code ends here
 
 some_knowledge = avi.teach
