@@ -30,6 +30,6 @@ katniss.learn(some_knowledge)
 
 puts "Steve just learned this important knowledge: '#{steve.knowledge.first}' from Avi"
 
-puts "Katniss just learned this important knowledge: '#{katniss.knowledge.sample}' from Avi"
+puts "Katniss just learned this important knowledge: '#{katniss.knowledge.last}' from Avi"
 
-jim.learn
+# jim.learn
