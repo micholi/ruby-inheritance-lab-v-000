@@ -26,6 +26,10 @@ some_knowledge = avi.teach
 
 steve.learn(some_knowledge)
 
+katniss.learn(some_knowledge)
+
 puts "Steve just learned this important knowledge: '#{steve.knowledge.first}' from Avi"
+
+puts "Katniss just learned this important knowledge: '#{katniss.knowledge.first}' from Avi"
 
 jim.learn
